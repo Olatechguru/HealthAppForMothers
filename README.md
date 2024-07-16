@@ -1,6 +1,7 @@
 # HealthAppForMothers Software Project 
 
-![image](https://github.com/user-attachments/assets/3255b656-cb17-4fe4-9cb7-128dc489b1ac)
+![image](https://github.com/user-attachments/assets/e9d2fd64-9d5a-4ac9-829d-95b2a21922a9)
+
 
 
 ## Project Overview:
